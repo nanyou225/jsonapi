@@ -1,0 +1,95 @@
+{
+  "brands": [
+    { "id": 1, "name": "Renault" },
+    { "id": 2, "name": "Peugeot" },
+    { "id": 3, "name": "Citroën" },
+    { "id": 4, "name": "Volkswagen" },
+    { "id": 5, "name": "Toyota" }
+  ],
+  "models": [
+    { "id": 1, "brandId": 1, "name": "Clio" },
+    { "id": 2, "brandId": 1, "name": "Mégane" },
+    { "id": 3, "brandId": 2, "name": "208" },
+    { "id": 4, "brandId": 2, "name": "308" },
+    { "id": 5, "brandId": 3, "name": "C3" },
+    { "id": 6, "brandId": 3, "name": "C4" },
+    { "id": 7, "brandId": 4, "name": "Golf" },
+    { "id": 8, "brandId": 4, "name": "Polo" },
+    { "id": 9, "brandId": 5, "name": "Yaris" },
+    { "id": 10, "brandId": 5, "name": "Corolla" }
+  ],
+  "engines": [
+    { "id": 1, "modelId": 1, "name": "1.2L Essence" },
+    { "id": 2, "modelId": 1, "name": "1.5L Diesel" },
+    { "id": 3, "modelId": 2, "name": "1.8L Essence" },
+    { "id": 4, "modelId": 2, "name": "2.0L Diesel" },
+    { "id": 5, "modelId": 3, "name": "1.2L Essence" },
+    { "id": 6, "modelId": 3, "name": "1.4L Diesel" },
+    { "id": 7, "modelId": 4, "name": "1.6L Essence" },
+    { "id": 8, "modelId": 4, "name": "2.0L Diesel" },
+    { "id": 9, "modelId": 5, "name": "1.2L Essence" },
+    { "id": 10, "modelId": 5, "name": "1.4L Diesel" },
+    { "id": 11, "modelId": 6, "name": "1.6L Essence" },
+    { "id": 12, "modelId": 6, "name": "1.8L Diesel" },
+    { "id": 13, "modelId": 7, "name": "1.4L Essence" },
+    { "id": 14, "modelId": 7, "name": "1.6L Diesel" },
+    { "id": 15, "modelId": 8, "name": "1.0L Essence" },
+    { "id": 16, "modelId": 8, "name": "1.2L Diesel" },
+    { "id": 17, "modelId": 9, "name": "1.0L Essence" },
+    { "id": 18, "modelId": 9, "name": "1.4L Diesel" },
+    { "id": 19, "modelId": 10, "name": "1.8L Essence" },
+    { "id": 20, "modelId": 10, "name": "2.0L Diesel" }
+  ],
+  "simulatedLicensePlates": [
+    {
+      "modelId": 1,
+      "licensePlate": "AA-001-AA",
+      "chassisNumber": "CH715ADFFF198AA02"
+    },
+    {
+      "modelId": 2,
+      "licensePlate": "BB-002-BB",
+      "chassisNumber": "CF715ADFBD198BT05"
+    },
+    {
+      "modelId": 3,
+      "licensePlate": "CC-003-CC",
+      "chassisNumber": "CH315A66FF198AA02"
+    },
+    {
+      "modelId": 4,
+      "licensePlate": "DD-004-DD",
+      "chassisNumber": "CH315ADFFF198A158"
+    },
+    {
+      "modelId": 5,
+      "licensePlate": "EE-005-EE",
+      "chassisNumber": "WW315ADFFF198A502"
+    },
+    {
+      "modelId": 6,
+      "licensePlate": "FF-006-FF",
+      "chassisNumber": "CH315ADFFF198AA02"
+    },
+    {
+      "modelId": 7,
+      "licensePlate": "GG-007-GG",
+      "chassisNumber": "CH315ADFFF198BD02"
+    },
+    {
+      "modelId": 8,
+      "licensePlate": "HH-008-HH",
+      "chassisNumber": "CH315ADF1F198AA02"
+    },
+    {
+      "modelId": 9,
+      "licensePlate": "II-009-II",
+      "chassisNumber": "CH315ADFFF198AA02"
+    },
+    {
+      "modelId": 10,
+      "licensePlate": "JJ-010-JJ",
+      "chassisNumber": "VF315A18FF198AA02"
+    }
+  ]
+}
